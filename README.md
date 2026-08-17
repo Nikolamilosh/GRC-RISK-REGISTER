@@ -61,7 +61,7 @@ Full list of all 15 risks is in the workbook.
 
 ## About me
 
-Recent Cybersecurity B.S. graduate building a GRC-focused portfolio. Connect with me on [LinkedIn](#).
+Recent Cybersecurity B.S. graduate building a GRC-focused portfolio. Connect with me on [LinkedIn](https://www.linkedin.com/in/nikola-miloshevski-1a455a243/).
 
 ---
 *This is a demonstration project. Miloshevski Health Partners is fictional; no real company, system, or incident data was used.*
